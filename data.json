@@ -11,41 +11,20 @@
         "project": "Office Chores",
         "elapsed": 66193235865,
         "id": "a73c1d19-f32d-4aff-b470-cea4e792406a",
-        "runningSince": null
+        "runningSince": 1522661339202
     },
     {
         "title": "Ponder origins of universe",
         "project": "Life Chores",
         "id": "2c43306e-5b44-4ff8-8753-33c35adbd06f",
         "elapsed": 64014152407,
-        "runningSince": null
-    },
-    {
-        "title": "test",
-        "project": "demo",
-        "id": "d7120d86-6fed-4fb3-9c03-79eab99f84d8",
-        "elapsed": 2420648107,
-        "runningSince": null
-    },
-    {
-        "title": "Timer",
-        "project": "Project",
-        "id": "827de67a-cce8-4897-a71d-24222539f7ec",
-        "elapsed": 0,
-        "runningSince": 1522660604385
-    },
-    {
-        "title": "Timer",
-        "project": "Project",
-        "id": "26151174-9f0e-41e4-be83-604dc06ee162",
-        "elapsed": 0,
-        "runningSince": 1522660605138
+        "runningSince": 1522661340033
     },
     {
         "title": "Timer",
         "project": "Project",
         "id": "282d6de1-bc1d-47a1-992d-1edc37ff5060",
-        "elapsed": 0,
-        "runningSince": 1522660606834
+        "elapsed": 3612782,
+        "runningSince": null
     }
 ]
